@@ -1,4 +1,4 @@
-# DeelSeeker
+# Airline Reservation System Management
 
 Airline Reservation System in Java.
 
