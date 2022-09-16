@@ -1,48 +1,12 @@
 # DeelSeeker
 
-Web Scraper in Java.
+Airline Reservation System in Java.
 
 ## Usage
 
-- Get the latest version of IntelliJ
-
-- Navigate to `src\MainStructure` folder 
-
-```bash
-cd src\MainStructure
-```
+- Get the latest version of Netbeans IDE
 
 - Run file
-
-## Screenshots
-
-### Splash Screen
-
-![Screenshot 1](screenshots/1.png "Splash Screen")
-
-### Main Menu
-
-![Screenshot 1](screenshots/2.png "Main Menu")
-
-### Home
-
-![Screenshot 2](screenshots/3.png "Home")
-
-### Search
-
-![Screenshot 3](screenshots/4.png "Search")
-
-### Compare
-
-![Screenshot 4](screenshots/5.png "Compare")
-
-### Preferences
-
-![Screenshot 5](screenshots/6.png "Preferences")
-
-### Users
-
-![Screenshot 5](screenshots/7.png "Users")
 
 ## Connect With Me
 
